@@ -40,13 +40,13 @@ This is not just a clock or a calendar. It is a perspective tool.
 
 **1. Clone or download the project:**
 ```bash
-git clone https://github.com/your-username/life-in-days.git
-cd life-in-days
+https://github.com/" your-username "/life_in_days_seconds_app.git
+cd life_in_days_seconds_app
 ```
 
 **2. Run the app:**
 ```bash
-python lifes.py
+python Life_in_days.py
 ```
 
 **3. Enter your birth date and click `calculate →`**
