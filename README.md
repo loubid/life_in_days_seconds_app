@@ -3,6 +3,8 @@
 > *Every square is one day. Green = lived. The rest awaits.*
 
 A desktop application built with Python and Tkinter that visualizes your entire life as a grid of squares — one square per day — giving you a powerful, visual reminder of how your time is being spent.
+## Screenshot
+
 
 ---
 
